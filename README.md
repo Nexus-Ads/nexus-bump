@@ -11,5 +11,5 @@ A bot that fits and perfects you servers growing needs!
 
 ## Important Links
 
->>> **Bot Invite:** [Click Here](https://discordapp.com/api/oauth2/authorize?client_id=701181011446202389&permissions=379921&redirect_uri=https%3A%2F%2Fdiscord.gg%2FnJM8usA&scope=bot)
- **Support Server:** [Click Here](https://discord.gg/nJM8usA)
+> **Bot Invite:** [Click Here](https://discordapp.com/api/oauth2/authorize?client_id=701181011446202389&permissions=379921&redirect_uri=https%3A%2F%2Fdiscord.gg%2FnJM8usA&scope=bot)
+> **Support Server:** [Click Here](https://discord.gg/nJM8usA)
